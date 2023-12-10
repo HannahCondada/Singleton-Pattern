@@ -8,4 +8,5 @@ Each help desk station has an option to reset the queuing number based on an inp
 
 This approach aims to maintain an organized queuing process for individuals visiting the office and provides the flexibility to handle queue adjustments as needed.
 
-![Uploading Singleton Pattern.png…]()
+
+![Singleton Pattern](https://github.com/HannahCondada/Singleton-Pattern/assets/142371011/3d9e9ad6-0b1a-4bb3-90a7-7e7a002565a9)
